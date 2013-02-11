@@ -18,8 +18,6 @@ Gallery
 </a><br />
 1-up
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -52,8 +50,6 @@ Australia Shield
 </a><br />
 Bird Singing
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -62,6 +58,8 @@ Bird Singing
 </a><br />
 Birthday Party
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -86,8 +84,6 @@ Bottle
 </a><br />
 Brain
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -104,6 +100,8 @@ Charlie Brown
 </a><br />
 Checkmark
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -120,8 +118,6 @@ Cloudy
 </a><br />
 Coin
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -146,6 +142,8 @@ Dbern
 </a><br />
 Dist Beta
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -154,8 +152,6 @@ Dist Beta
 </a><br />
 Dist Gamma
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -222,8 +218,6 @@ Flat Guy
 </a><br />
 Forager Guy
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -232,6 +226,8 @@ Forager Guy
 </a><br />
 Guy Elephant
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -256,8 +252,6 @@ Heart Sad
 </a><br />
 Heart Smile
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -274,6 +268,8 @@ High Low Plot
 </a><br />
 Ipod Mini
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -290,8 +286,6 @@ Killer Robot
 </a><br />
 Lambda Man
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -316,6 +310,8 @@ Lawyer Computer
 </a><br />
 Mail Icon
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -324,8 +320,6 @@ Mail Icon
 </a><br />
 Mailbox
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -392,8 +386,6 @@ Monkey Face
 </a><br />
 Mr Bill
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -402,6 +394,8 @@ Mr Bill
 </a><br />
 Nails
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -426,8 +420,6 @@ Paper Hat
 </a><br />
 Rat
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -444,6 +436,8 @@ Samus Symbol
 </a><br />
 Scapegoat
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -460,8 +454,6 @@ Schrodingers Cat
 </a><br />
 Second Law
 </td>
-</tr>
-<tr>
     
     
 <td>
@@ -486,6 +478,8 @@ Strawberry
 </a><br />
 Sun
 </td>
+</tr>
+<tr>
     
     
 <td>
@@ -494,8 +488,6 @@ Sun
 </a><br />
 Syn Logo
 </td>
-</tr>
-<tr>
     
     
 <td>
