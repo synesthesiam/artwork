@@ -23,7 +23,7 @@ thumbs = glob("thumbs/*.jpg")
 </a><br />
 ${name}
 </td>
-% if (i > 0) and (i % 5 == 0):
+% if (i+1) % 5 == 0:
 </tr>
 <tr>
 % endif
