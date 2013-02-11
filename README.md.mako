@@ -12,15 +12,21 @@ from glob import glob
 thumbs = glob("thumbs/*.jpg")
 %>
 
-% for path in thumbs:
+<table>
+<tr>
+% for i, path in enumerate(sorted(thumbs)):
     <% name = " ".join([x.capitalize() for x in os.path.splitext(os.path.split(path)[1])[0].split("_")]) %>
     <% svg = "svg/{0}.svg".format(os.path.splitext(os.path.split(path)[1])[0]) %>
-<div style="float: left; width: auto; height: auto; margin: 5px; text-align: center;">
+<td>
 <a href="https://raw.github.com/synesthesiam/artwork/master/${svg}">
-<img src="https://raw.github.com/synesthesiam/artwork/master/${path}" style="display: inline; margin: 5px; border: 2px solid #DDD;" />
-</a>
-<div style="text-align: center; width: 120px; margin: 3px;">
+<img src="https://raw.github.com/synesthesiam/artwork/master/${path}" />
+</a><br />
 ${name}
-</div>
-</div>
+</td>
+% if i % 4 == 0:
+</tr>
+<tr>
+% endif
 % endfor
+</tr>
+</table>
