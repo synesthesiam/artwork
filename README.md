@@ -1,7 +1,7 @@
 artwork
 =======
 
-Some of my art (for some definition of art)
+Some of my art (for some definition of art). Thumbnails are linked to [Inkscape](http://inkscape.org/) SVG files.
 
 Gallery
 -------
