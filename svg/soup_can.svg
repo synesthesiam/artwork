@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="5.6580133mm"
+   height="7.7950444mm"
+   viewBox="0 0 5.6580133 7.7950444"
+   version="1.1"
+   id="svg5061"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="soup_can.svg">
+  <defs
+     id="defs5055" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="5.6"
+     inkscape:cx="-12.269361"
+     inkscape:cy="-5.6711998"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1172"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5058">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-43.020863,-185.64057)">
+    <g
+       style="display:inline"
+       id="g2841"
+       transform="matrix(0,0.21370192,-0.21370192,0,112.01297,32.904606)">
+      <rect
+         style="fill:#b30000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.47619057;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="rect2816"
+         width="24.000002"
+         height="32.750004"
+         x="-321.60461"
+         y="717.20312"
+         ry="2.587744"
+         transform="rotate(-90)" />
+      <ellipse
+         style="fill:#b30000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:2.47619033;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2818"
+         transform="rotate(-90,391.84132,16.38825)"
+         cx="98.625"
+         cy="342.875"
+         rx="11.625"
+         ry="2.375" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         x="-319.41931"
+         y="731.20312"
+         id="text2820"
+         transform="rotate(-90)"><tspan
+           sodipodi:role="line"
+           id="tspan2822"
+           x="-319.41931"
+           y="731.20312"
+           style="font-size:7.00000048px;line-height:1.25;fill:#ffffff">ACME</tspan></text>
+      <path
+         sodipodi:nodetypes="ccccccc"
+         id="path2824"
+         d="m 736.29182,298.5421 h 11.82265 c 0.61467,0 1.10951,0.49484 1.10951,1.1095 v 19.906 c 0,0.61466 -0.49484,1.1095 -1.10951,1.1095 h -11.82265 c 3.88988,-4.68021 4.97752,-15.9749 0,-22.125 z"
+         style="fill:#d9d9d9;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <text
+         id="text2826"
+         y="745.57812"
+         x="-318.36292"
+         style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         xml:space="preserve"
+         transform="rotate(-90)"><tspan
+           style="font-weight:bold;font-size:3.00000024px;line-height:1.25;-inkscape-font-specification:'Bitstream Vera Sans Bold'"
+           y="745.57812"
+           x="-318.36292"
+           id="tspan2828"
+           sodipodi:role="line">CHOWDER</tspan></text>
+      <ellipse
+         style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:2.61668253;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         id="path2830"
+         transform="matrix(-0.00655307,-0.6049102,0.5892915,0.00655296,518.57958,367.28331)"
+         cx="98.625"
+         cy="342.875"
+         rx="11.625"
+         ry="2.375" />
+    </g>
+  </g>
+</svg>

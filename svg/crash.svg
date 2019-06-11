@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="83.692863mm"
+   height="66.702415mm"
+   viewBox="0 0 83.692863 66.702415"
+   version="1.1"
+   id="svg2428"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="crash.svg">
+  <defs
+     id="defs2422">
+    <filter
+       style="color-interpolation-filters:sRGB"
+       inkscape:collect="always"
+       id="filter31196">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.86679748"
+         id="feGaussianBlur31198" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="205.23196"
+     inkscape:cy="182.50506"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1172"
+     inkscape:window-x="1600"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2425">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-8.0464243,-165.37498)">
+    <g
+       style="display:inline"
+       id="g35320"
+       transform="matrix(0.26411854,0.01567597,-0.01567597,0.26411854,-50.614311,110.56864)">
+      <g
+         transform="matrix(-1.2491487,0.3034193,-0.33909389,-1.1875926,939.81411,332.67533)"
+         id="g35316">
+        <path
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc"
+           id="path7901"
+           d="m 505.66645,114.20884 15.02951,18.47553 -23.52525,8.22119 5.83001,22.9316 -17.93484,2.63891 2.04629,18.39986 -25.3309,-0.54698 -10.42094,21.13179 -23.02023,-10.43853 -9.1108,22.07037 -25.91376,-16.57701 -21.72544,17.87139 -15.04567,-22.20687 -18.09625,15.88229 -5.6704,-28.77968 -30.89498,6.58958 3.6542,-24.37062 -24.77695,-0.46979 16.85806,-25.81917 -21.38066,-10.8604 20.35965,-14.62549 -14.75281,-15.154767 23.15989,-3.103634 -8.71905,-28.73441 29.78922,-0.302929 -0.31432,-21.550814 24.40068,2.893732 12.02541,-25.880324 28.15628,21.995866 25.32628,-22.276492 12.49157,24.18224 28.59452,-14.117294 1.79088,25.123393 25.54116,-8.846436 4.55836,23.135675 23.18279,-5.985385 -11.00899,21.726447 22.9435,14.593482 z"
+           style="display:inline;fill:#ffd42a;fill-opacity:1;stroke:#554400;stroke-width:3.89957571;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dashoffset:0;stroke-opacity:1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="display:inline;fill:#ffff00;fill-opacity:1;stroke:none"
+           d="m 491.84642,114.96626 13.06383,16.05914 -20.44841,7.14594 5.06749,19.9324 -15.58915,2.29377 1.77867,15.99336 -22.0179,-0.47545 -9.058,18.36799 -20.00944,-9.07329 -7.9192,19.18381 -22.52452,-14.40892 -18.88399,15.53401 -13.07785,-19.30246 -15.72947,13.80507 -4.92877,-25.01562 -26.85425,5.72774 3.17627,-21.18321 -21.53639,-0.40835 14.6532,-22.4423 -18.5843,-9.43998 17.69682,-12.71263 -12.8233,-13.17269 20.13083,-2.697716 -7.5787,-24.976263 25.89312,-0.26331 -0.27321,-18.732202 21.20934,2.515264 10.45262,-22.495459 24.47374,19.119046 22.01388,-19.362977 10.85781,21.019473 24.85467,-12.270906 1.55665,21.837527 22.20066,-7.689417 3.96217,20.10978 20.15075,-5.202562 -9.56915,18.884865 19.94274,12.684817 z"
+           id="path31190"
+           sodipodi:nodetypes="ccccccccccccccccccccccccccccccccccccccc"
+           inkscape:connector-curvature="0" />
+      </g>
+      <g
+         transform="rotate(-15,1168.6018,373.82368)"
+         id="g35310">
+        <text
+           id="text31192"
+           y="31.747923"
+           x="564.91736"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;opacity:0.5;fill:#000000;fill-opacity:1;stroke:none;filter:url(#filter31196)"
+           xml:space="preserve"
+           transform="matrix(1.2942209,-0.12093035,0.12093035,1.2942209,-414.04728,178.94227)"><tspan
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:45px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#000000;stroke:none"
+             y="31.747923"
+             x="564.91736"
+             id="tspan31194"
+             sodipodi:role="line">CRASH!</tspan></text>
+        <text
+           transform="rotate(-5.3381452)"
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;line-height:0%;font-family:'Bitstream Vera Sans';display:inline;fill:#ff0000;fill-opacity:1;stroke:#800000;stroke-width:2.5997169"
+           x="301.71591"
+           y="175.34616"
+           id="text7883"><tspan
+             sodipodi:role="line"
+             id="tspan7885"
+             x="301.71591"
+             y="175.34616"
+             style="font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:58.49362946px;line-height:125%;font-family:'Arial Black';-inkscape-font-specification:'Arial Black, Bold Italic';text-align:start;writing-mode:lr-tb;text-anchor:start;fill:#ff0000;stroke:#800000;stroke-width:2.5997169">CRASH!</tspan></text>
+      </g>
+    </g>
+  </g>
+</svg>
