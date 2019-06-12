@@ -7,7 +7,7 @@ README.md: README.md.mako
 	./mako README.md.mako README.md
 
 thumbs/%.png: svg/%.svg
-	inkscape $< --export-background white --export-png $@
+	inkscape $< --export-background white --export-background-opacity 1 --export-dpi 300 --export-png $@
 
 thumbs/%.jpg: thumbs/%.png
 	convert $< -resize x100 $@
