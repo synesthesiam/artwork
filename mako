@@ -1,15 +1,14 @@
-#!/usr/bin/python
+#!/usr/bin/python3
 
 import os, sys
-from mako.lookup import TemplateLookup
+from mako.template import Template
 
 if __name__ == "__main__":
     if len(sys.argv) < 3:
-        print "Usage: mako input output"
+        print("Usage: mako input output")
         sys.exit(1)
 
-    base_dir = os.path.dirname(os.path.abspath(__file__))
-    lookup = TemplateLookup(directories=[base_dir], input_encoding="utf-8", output_encoding="utf-8") 
+    template = Template(filename=sys.argv[1]) 
 
     with open(sys.argv[2], "w") as writer:
-        writer.write(lookup.get_template(sys.argv[1]).render())
+        writer.write(template.render())
